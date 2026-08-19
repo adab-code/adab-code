@@ -1,5 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=7000&pause=1700&color=F7F7F7&width=460&height=76&lines=Bienvenido+Brow+%F0%9F%A4%99)](https://git.io/typing-svg)
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+Soy Aarón, desarrollador de software y curioso por naturaleza. Me gusta entender cómo funcionan las cosas, romperlas un poco y luego encontrar una mejor forma de construirlas.
+
+Mi mundo está principalmente en el frontend, donde trabajo con JavaScript, React, HTML y CSS. Disfruto convertir ideas en interfaces que no solo funcionan, sino que también se sienten bien al usarlas.
+
+Código, errores y muchas ganas de seguir creando.
 
 
 # 💻 Tech Stack
