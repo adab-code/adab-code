@@ -114,10 +114,13 @@ Código, errores y muchas ganas de seguir creando.
 ## Hardware y Plataformas Específicas
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=adab-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=adab-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adab-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=adab-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="55%" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=adab-code&theme=dark&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adab-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="36%" />
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=adab-code&icon=0&color=1)](https://visitcount.itsvg.in)
 
