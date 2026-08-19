@@ -121,8 +121,6 @@ Código, errores y muchas ganas de seguir creando.
   <img src="https://streak-stats.demolab.com/?user=adab-code&theme=dark&hide_border=false" width="50%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adab-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="36%" />
 </div>
----
-[![](https://komarev.com/ghpvc/?username=adab-code&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![snake gif](https://github.com/adab-code/adab-code/blob/output/github-snake-dark.svg)
