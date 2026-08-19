@@ -13,3 +13,4 @@
 [![](https://komarev.com/ghpvc/?username=adab-code&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/adab-code/adab-code/blob/output/github-snake-dark.svg)
