@@ -116,10 +116,10 @@ Código, errores y muchas ganas de seguir creando.
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=adab-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="55%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=adab-code&theme=aura&hide_border=true&include_all_commits=true&count_private=false" width="55%" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=adab-code&theme=dark&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adab-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="36%" />
+  <img src="https://streak-stats.demolab.com/?user=adab-code&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adab-code&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="36%" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
